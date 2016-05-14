@@ -1,4 +1,4 @@
-test<?php
+<?php
 	include('naglowek.php');
 ?>
 
