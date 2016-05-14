@@ -1,7 +1,7 @@
 <?php
 	include('naglowek.php');
 ?>
-
+<div></div>
 <div class="container">
   <h2 style="text-align: center">Sprawdź pesel</h2>
   <form method="post" action="sprawdz.php">
