@@ -64,7 +64,7 @@ else if(isset($wynik) && $wynik == 3) {
 
 ?>
 <footer>
-	<p>Kontakt przez ...</p>
+	<a href="test@test.test">test</a>
 </footer>	
 </body>
 </html>
