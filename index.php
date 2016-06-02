@@ -63,6 +63,8 @@ else if(isset($wynik) && $wynik == 3) {
 }
 
 ?>
-
+<footer>
+	<p>Kontakt przez ...</p>
+</footer>	
 </body>
 </html>
